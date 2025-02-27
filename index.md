@@ -9,3 +9,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [] Finish HW6
+- [x] Complete step 3
